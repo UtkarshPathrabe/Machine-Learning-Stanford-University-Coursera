@@ -61,6 +61,9 @@ Some of the problems below are best addressed using a supervised learning algori
 4) Given 50 articles written by male authors, and 50 articles written by female authors, learn to predict the gender of a new manuscript's author (when the identity of this author is unknown). :=  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addressed as a supervised learning, classification, problem, where we learn from the labeled data to predict gender.  
 
+5) In farming, given data on crop yields over the last 50 years, learn to predict next year's crop yields. :=  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addresses as a supervised learning problem, where we learn from historical data (labeled with historical crop yields) to predict future crop yields.  
+
 Question 5
 ----------
 
