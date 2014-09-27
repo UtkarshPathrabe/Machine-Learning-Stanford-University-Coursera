@@ -8,7 +8,7 @@ Suppose a friend ran gradient descent three times, with (alpha)=0.01, (alpha)=0.
 ![Graph Problem 1](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2002/01.%20Linear%20Regression%20With%20Multiple%20Variables/Lecture04Graph.png)  
 Which plots corresponds to which values of (alpha)?  
 
-#Answer
+### Answer
 
 A is (alpha)=0.1, B is (alpha)=0.01, C is (alpha)=1
 
