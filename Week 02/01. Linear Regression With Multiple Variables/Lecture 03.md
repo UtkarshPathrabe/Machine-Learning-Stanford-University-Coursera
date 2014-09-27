@@ -8,4 +8,4 @@ Suppose you are using a learning algorithm to estimate the price of houses in a 
 
 ### Answer
 
-x(i) = (age of house???38)/20
+x(i) = (age of house ??? 38)/20
