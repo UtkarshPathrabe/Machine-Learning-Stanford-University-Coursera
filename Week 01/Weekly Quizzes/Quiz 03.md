@@ -15,7 +15,7 @@ To add two matrices, add them element-wise.
 
 Question 02
 -----------  
-Let x = ![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0303.png "Mask")  
+![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0303.png "Mask")  
 What is 3 * x?  
 
 ### Answer  
