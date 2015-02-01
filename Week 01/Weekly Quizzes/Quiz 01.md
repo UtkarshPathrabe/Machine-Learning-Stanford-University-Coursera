@@ -70,6 +70,9 @@ Some of the problems below are best addressed using a supervised learning algori
 7) Examine a web page, and classify whether the content on the web page should be considered "child friendly" (e.g., non-pornographic, etc.) or "adult." :=  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addressed as a supervised learning, classification, problem, where we can learn from a dataset of web pages that have been labeled as "child friendly" or "adult."  
 
+8) Examine the statistics of two football teams, and predicting which team will win tomorrow's match (given historical data of teams' wins/losses to learn from). :=  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addressed using supervised learning, in which we learn from historical records to make win/loss predictions.  
+
 Question 5
 ----------
 
