@@ -64,6 +64,12 @@ Some of the problems below are best addressed using a supervised learning algori
 5) In farming, given data on crop yields over the last 50 years, learn to predict next year's crop yields. :=  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addresses as a supervised learning problem, where we learn from historical data (labeled with historical crop yields) to predict future crop yields.  
 
+6) Examine a large collection of emails that are known to be spam email, to discover if there are sub-types of spam mail. :=  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can addressed using a clustering (unsupervised learning) algorithm, to cluster spam mail into sub-types.  
+
+7) Examine a web page, and classify whether the content on the web page should be considered "child friendly" (e.g., non-pornographic, etc.) or "adult." :=  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This can be addressed as a supervised learning, classification, problem, where we can learn from a dataset of web pages that have been labeled as "child friendly" or "adult."  
+
 Question 5
 ----------
 
