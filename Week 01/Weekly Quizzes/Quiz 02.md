@@ -22,3 +22,19 @@ For the training set given above, what is the value of m? In the box below, plea
 ### Explanation  
 m is the number of training examples. In this example, we have m=4 examples.  
 
+Question 02
+-----------  
+Consider the following training set of m=4 training examples:  
+| x | y |
+|:-:|:-:|
+| 1 |0.5|
+| 2 | 1 |
+| 4 | 2 |
+| 0 | 0 |  
+Consider the linear regression model ![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0201.png "Mask"). What are the values of ![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0202.png "Mask") and ![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0203.png "Mask") that you would expect to obtain upon running gradient descent on this model? (Linear regression will be able to fit this data perfectly.)  
+
+### Answer  
+![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0204.png "Mask")  
+
+### Explanation  
+![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0205.png "Mask")
