@@ -42,3 +42,9 @@ What is (u transpose * v)?
 ### Answer  
 10  
 
+Question 05
+-----------  
+Let A and B be 3x3 (square) matrices. Which of the following must necessarily hold true?  
+
+### Answer  
+![alt text](https://github.com/UtkarshPathrabe/Machine-Learning-Stanford-University-Coursera/blob/master/Week%2001/Weekly%20Quizzes/Quiz0308.png "Mask")  
